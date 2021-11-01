@@ -1,6 +1,6 @@
 # Battle Brothers Snippets for Sublime Text
 
-By [Enduriel](https://github.com/Enduriel/) maintained at [this repository](https://github.com/Enduriel/Sublime-Snippets-BB)
+By [Enduriel](https://github.com/Enduriel/) maintained at [this repository](https://github.com/Enduriel/Sublime-Text-BB-Snippets)
 
 # Installation
 
