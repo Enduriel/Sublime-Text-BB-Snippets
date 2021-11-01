@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.m.BackgroundType =
+]]></content>
+	<tabTrigger>tbtype</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - BackgroundType</description>
+</snippet>

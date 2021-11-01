@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.Const.Items.ItemType.
+]]></content>
+	<tabTrigger>itype</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - ItemType</description>
+</snippet>

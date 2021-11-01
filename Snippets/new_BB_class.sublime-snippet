@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+this.${1:name} <- ${2/(^.+$)|^$/(?1:this\.inherit\(\":)/}${2:parent}${2/(^.+$)|^$/(?1:\", :)/}{
+	m = {$3},
+	$0
+}${2/(^.+$)|^$/(?1:\);:)/}
+]]></content>
+	<tabTrigger>bbclass</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - New Class</description>
+</snippet>
+<!-- ${2/^.+$/(?1:this.inherit(:} -->

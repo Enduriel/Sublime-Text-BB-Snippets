@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.m.WeaponType =
+]]></content>
+	<tabTrigger>twtype</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - this.m.WeaponType</description>
+</snippet>

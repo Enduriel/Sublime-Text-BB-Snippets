@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.logInfo($1);
+]]></content>
+	<tabTrigger>log</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - LogInfo</description>
+</snippet>

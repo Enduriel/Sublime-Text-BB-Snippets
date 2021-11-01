@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.Const.Items.WeaponType.
+]]></content>
+	<tabTrigger>wtype</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - WeaponType</description>
+</snippet>
