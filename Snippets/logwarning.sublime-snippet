@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+::logWarning($1);
+]]></content>
+	<tabTrigger>logw</tabTrigger>
+	<scope>source.nut</scope>
+	<description>Snippet - LogWarning</description>
+</snippet>
