@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-this.logInfo($1);
+::logInfo($1);
 ]]></content>
 	<tabTrigger>log</tabTrigger>
 	<scope>source.nut</scope>
