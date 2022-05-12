@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-::mods_hookExactClass("$1", function (o)
+::mods_hookDescendants("$1", function (o)
 {
 	$0
 });
 ]]></content>
-	<tabTrigger>hookexact</tabTrigger>
+	<tabTrigger>hookdesc</tabTrigger>
 	<scope>source.nut</scope>
 	<description>Snippet - HookExactClass</description>
 </snippet>
